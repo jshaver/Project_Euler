@@ -67,7 +67,7 @@ namespace Project_Euler
                         {
                             Console.WriteLine(result);
                         }
-                        Console.WriteLine("--------------------");
+                        Console.WriteLine("--------------------\n");
 
                     }
                     else
